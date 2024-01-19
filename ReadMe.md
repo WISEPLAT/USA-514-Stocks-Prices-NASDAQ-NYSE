@@ -2,6 +2,8 @@
 
 ### ~11 Gb of market data for you and your analysis with NN or other methods 
 
+Here is the link to kaggle dataset [USA 514 Stocks Prices NASDAQ NYSE](https://www.kaggle.com/datasets/olegshpagin/usa-stocks-prices-ohlcv) (weekly updates)
+
 #### 4626 CSV files for MN1, W1, D1, H4, H1, M30, M15, M10 and M5 timeframes
 
 ``` 
